@@ -8,4 +8,4 @@ To install it you just need to do:
 
 `pip install networkx[default]`
 
-The complexity should be O(n) where n is the amount of words (The algorithm itself describes as linear time algorithm).
+The complexity is O(n) where n is the amount of words (The algorithm itself describes as linear time algorithm).
